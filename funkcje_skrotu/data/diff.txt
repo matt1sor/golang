@@ -1,0 +1,10 @@
+md5sum
+4d11878c0c6d510390ff9ba9be219540
+28889f96f5f3dd92af779c9c49f5d70c
+Liczba różniących się bitów: 55 z 128, procentowo: 43.0%
+
+sha1sum
+879afbbf417fe8f61ece9ed19d854da34489f047
+778e182df44c9c0a11c6ff1e4bd1a33825206e61
+Liczba różniących się bitów: 72 z 160, procentowo: 45.0%
+
